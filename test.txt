@@ -1,0 +1,3 @@
+my first file fo git repository.
+changed after pushed to stage.
+
